@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My-Portfolio-v1-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\component\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\component\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\Pages\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\.eslintcache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eslintcache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\Pages\\UiUx.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\UiUx.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\Pages\\ReactHooks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\ReactHooks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\component\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\component\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\Pages\\FormExample.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\FormExample.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\plugin\\components\\moment\\moment-timezone-with-data.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\plugin\\components\\moment\\moment-timezone-with-data.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\assets\\js\\contact-form-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\assets\\js\\contact-form-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\src\\component\\ScrollToTop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\component\\ScrollToTop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\about-image.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\about-image.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\img1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\img1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\person_3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\person_3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\person_7.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\person_7.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\img1-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\img1-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\clients.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\clients.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My-Portfolio-v1-master\\public\\assets\\img\\about-image-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\assets\\img\\about-image-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormExample.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\Pages\\FormExample.js",
+              "RelativeDocumentMoniker": "src\\Pages\\FormExample.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\Pages\\FormExample.js",
+              "RelativeToolTip": "src\\Pages\\FormExample.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:25:38.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".eslintcache",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\.eslintcache",
+              "RelativeDocumentMoniker": ".eslintcache",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\.eslintcache",
+              "RelativeToolTip": ".eslintcache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACrCgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T15:57:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "blog.css",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\css\\blog.css",
+              "RelativeDocumentMoniker": "public\\assets\\css\\blog.css",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\css\\blog.css",
+              "RelativeToolTip": "public\\assets\\css\\blog.css",
+              "ViewState": "AQIAAEICAAAAAAAAAAAUwE8CAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T13:25:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{789371c0-258b-43da-a1cf-86e5222ae2ed}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\Pages\\Home.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Home.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\Pages\\Home.js",
+              "RelativeToolTip": "src\\Pages\\Home.js",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAIwBwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:47:03.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Footer.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\component\\Footer.js",
+              "RelativeDocumentMoniker": "src\\component\\Footer.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\component\\Footer.js",
+              "RelativeToolTip": "src\\component\\Footer.js",
+              "ViewState": "AQIAABMAAAAAAAAAAAD4vzcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:26:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T12:45:04.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-22T00:21:54.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T12:54:58.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UiUx.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\Pages\\UiUx.js",
+              "RelativeDocumentMoniker": "src\\Pages\\UiUx.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\Pages\\UiUx.js",
+              "RelativeToolTip": "src\\Pages\\UiUx.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T12:45:16.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "public\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "public\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAB3IwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:46:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Header.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\component\\Header.js",
+              "RelativeDocumentMoniker": "src\\component\\Header.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\component\\Header.js",
+              "RelativeToolTip": "src\\component\\Header.js",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:26:12.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReactHooks.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\Pages\\ReactHooks.js",
+              "RelativeDocumentMoniker": "src\\Pages\\ReactHooks.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\Pages\\ReactHooks.js",
+              "RelativeToolTip": "src\\Pages\\ReactHooks.js",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEEAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T12:45:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "logo.svg",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\logo.svg",
+              "RelativeDocumentMoniker": "src\\logo.svg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\logo.svg",
+              "RelativeToolTip": "src\\logo.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-22T12:39:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "moment-timezone-with-data.min.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\plugin\\components\\moment\\moment-timezone-with-data.min.js",
+              "RelativeDocumentMoniker": "public\\assets\\plugin\\components\\moment\\moment-timezone-with-data.min.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\plugin\\components\\moment\\moment-timezone-with-data.min.js",
+              "RelativeToolTip": "public\\assets\\plugin\\components\\moment\\moment-timezone-with-data.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAACnWgsA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T01:37:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:32:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.test.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\App.test.js",
+              "RelativeDocumentMoniker": "src\\App.test.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\App.test.js",
+              "RelativeToolTip": "src\\App.test.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:32:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "public\\assets\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "public\\assets\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T00:45:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "contact-form-script.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\assets\\js\\contact-form-script.js",
+              "RelativeDocumentMoniker": "public\\assets\\assets\\js\\contact-form-script.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\assets\\js\\contact-form-script.js",
+              "RelativeToolTip": "public\\assets\\assets\\js\\contact-form-script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:36:24.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LICENSE",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T00:26:14.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScrollToTop.js",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\src\\component\\ScrollToTop.js",
+              "RelativeDocumentMoniker": "src\\component\\ScrollToTop.js",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\src\\component\\ScrollToTop.js",
+              "RelativeToolTip": "src\\component\\ScrollToTop.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T00:30:16.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "img1.png - PNG [2560x1440, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\img1.png",
+              "RelativeDocumentMoniker": "public\\assets\\img\\img1.png",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\img1.png - PNG [2560x1440, 32 bit, PNG]",
+              "RelativeToolTip": "public\\assets\\img\\img1.png - PNG [2560x1440, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:18:04.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "about-image.jpg - Bitmap [675x872, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\about-image.jpg",
+              "RelativeDocumentMoniker": "public\\assets\\img\\about-image.jpg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\about-image.jpg - Bitmap [675x872, 24 bit, JPG]",
+              "RelativeToolTip": "public\\assets\\img\\about-image.jpg - Bitmap [675x872, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:17:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "person_3.jpg - Bitmap [2085x2084, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\person_3.jpg",
+              "RelativeDocumentMoniker": "public\\assets\\img\\person_3.jpg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\person_3.jpg - Bitmap [2085x2084, 24 bit, JPG]",
+              "RelativeToolTip": "public\\assets\\img\\person_3.jpg - Bitmap [2085x2084, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:18:02.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "person_7.jpg - Bitmap [800x799, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\person_7.jpg",
+              "RelativeDocumentMoniker": "public\\assets\\img\\person_7.jpg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\person_7.jpg - Bitmap [800x799, 24 bit, JPG]",
+              "RelativeToolTip": "public\\assets\\img\\person_7.jpg - Bitmap [800x799, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:17:54.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "img1-1.jpg - Bitmap [2560x1440, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\img1-1.jpg",
+              "RelativeDocumentMoniker": "public\\assets\\img\\img1-1.jpg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\img1-1.jpg - Bitmap [2560x1440, 24 bit, JPG]",
+              "RelativeToolTip": "public\\assets\\img\\img1-1.jpg - Bitmap [2560x1440, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:17:44.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clients.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\clients.jpg",
+              "RelativeDocumentMoniker": "public\\assets\\img\\clients.jpg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\clients.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "RelativeToolTip": "public\\assets\\img\\clients.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:17:44.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "about-image-1.jpg - Bitmap [427x640, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\about-image-1.jpg",
+              "RelativeDocumentMoniker": "public\\assets\\img\\about-image-1.jpg",
+              "ToolTip": "E:\\My-Portfolio-v1-master\\public\\assets\\img\\about-image-1.jpg - Bitmap [427x640, 24 bit, JPG]",
+              "RelativeToolTip": "public\\assets\\img\\about-image-1.jpg - Bitmap [427x640, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-22T00:17:36.631Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
